@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Yo guys ⚡
+im the goat Steuerhinterzieher. Im a dev for Cybersecurity Stuff
 <!--
 **sy2ryxmnmy-hash/sy2ryxmnmy-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
