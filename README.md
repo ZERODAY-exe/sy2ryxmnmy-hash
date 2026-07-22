@@ -1,5 +1,19 @@
 # Yo guys ⚡
-im the goat Steuerhinterzieher. Im a dev for Cybersecurity Stuff
+im the goat Steuerhinterzieher. Im a dev for Cybersecurity Stuff.
+I have some cool repos if u look under this Readme.
+My Coding Languages are:
+
+- C
+- C++
+- Python
+- Java
+- Kotlin
+- JavaScript
+
+## Bye and stay opsec
+```bash
+sudo apt install opsec
+```
 <!--
 **sy2ryxmnmy-hash/sy2ryxmnmy-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
