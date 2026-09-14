@@ -1,5 +1,5 @@
 # Yo guys ⚡
-im the goat Azazil. Im a dev for Cybersecurity Stuff.
+im the goat ØDAY. Im a dev for Cybersecurity Stuff.
 I have some cool repos if u look under this Readme.
 My Coding Languages are:
 
